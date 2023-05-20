@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server - um servidor ótimo na fase de desenvolvimento",
+      "author": "editor"
+    },
+    {
+      "id": 2,
+      "title": "axios - um recurso importante para manipulação de api's",
+      "author": "editor"
+    },
+    {
+      "id": 3,
+      "title": "conheça a logicinfo.com.br, você encontrará uma série de tutoriais sobre diversas tecnologias",
+      "author": "editor"
+    },
+    {
+      "id": 4,
+      "title": "conheça a o repositório da logicinfo.com.br no github: https://github.com/logicinfocursos?tab=repositories",
+      "author": "editor"
+    }
+  ]
+}
